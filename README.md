@@ -22,7 +22,7 @@ MEGJEGYZÉS: az alkalmazás a karakteres ellenőrzésen túl, elvégez néhány 
 •	ha háromnál több alátörés, azaz háromnál több perjel van benne (pl. 03568/78/A/5/2),
 •	ha perjellel végződik (pl. 32658/),
 •	ha betű és szám áll közvetlenül egymást követően tetszőleges sorrendben perjel nélkül (pl. 1b/56) stb.,
-de helyesnek fogadja el az A/A/5, vagy 0/0/0 stb. sztringeket.
+de helyesnek fogadja el az 1/A/A, vagy 0/0/0 stb. sztringeket.
 
 
 * az önálló ingatlanok helyrajziszámozásáról és az alrészletek megjelöléséről szóló 
